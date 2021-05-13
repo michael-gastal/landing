@@ -1,0 +1,19 @@
+.footer {
+  background-color: rgb(70,70,70);
+  padding: 80px;
+}
+
+.footer h2 {
+  color: rgb(120,120,120);
+}
+
+.footer a {
+  color: #4361ee;
+  opacity: 0.5;
+  font-size: 40px;
+  padding: 0 8px;
+}
+
+.footer a:hover {
+  opacity: 1;
+}
